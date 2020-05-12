@@ -1,5 +1,5 @@
 [core]
-	editor = atom --wait
+	editor = vim
 [user]
 	name = AYK722
 	email = toyozumi@edomtt.co.jp
